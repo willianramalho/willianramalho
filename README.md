@@ -21,5 +21,7 @@
 
   ## Github Stats
   
-![Willian's GitHub stats](https://github-readme-stats.vercel.app/api?username=willianramalho&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willianramalho&layout=compact)](https://github.com/willianramalho/github-readme-stats)
+  <div align='center'>
+  <img height="150rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=willianramalho&&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="150rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=willianramalho&layout=compact&langs_count=16&theme=outrun"/>
+</div>
