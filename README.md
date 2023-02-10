@@ -18,3 +18,8 @@
   <a href="https://www.linkedin.com/in/willian-vinicius-r-767b20160/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+  ## Github Stats
+  
+![Willian's GitHub stats](https://github-readme-stats.vercel.app/api?username=willianramalho&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willianramalho&layout=compact)](https://github.com/willianramalho/github-readme-stats)
