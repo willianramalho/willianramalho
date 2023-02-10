@@ -1,8 +1,5 @@
 # Olá, me chamo Willian Ramalho! 
-## Bem vindo ao meu do perfil GitHub 👋
-
-
-## As ferramentas e Tecnologias que estou estudando
+Bem vindo ao meu do perfil GitHub 👋
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Willian-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,7 +16,7 @@
   
 </div>
 
-  ## Github Stats
+  # Github Stats
   
   <div align='center'>
   <img height="150rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=willianramalho&&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
