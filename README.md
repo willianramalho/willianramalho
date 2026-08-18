@@ -31,7 +31,3 @@
 - 🔹 [Desenvolvimento-ADVPL](https://github.com/willianramalho/Desenvolvimento-ADVPL) — estudos e exemplos práticos de ADVPL para Protheus
 - 🔹 [ADVPL_IF_and_For](https://github.com/willianramalho/ADVPL_IF_and_For) — estruturas de controle e laços em ADVPL
 
-### GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=willianramalho&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willianramalho&layout=compact)
